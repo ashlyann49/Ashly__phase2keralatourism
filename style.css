@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.back{
+    background-image: linear-gradient(rgb(90, 178, 207),green);
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-attachment: fixed;
+}
+
+
+.neon {
+    color: #fff;
+    text-shadow:
+      0 0 5px #fff,
+      0 0 10px rgb(109, 49, 49),
+      0 0 20px #fff,
+      0 0 40px rgb(234, 0, 255),
+      0 0 80px #0ff,
+      0 0 90px #0ff,
+      0 0 100px rgb(51, 48, 24),
+      0 0 150px #0ff;
+  }
+ .footer {
+   position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+ }
+ 
+ .form-elegant .font-small {
+    font-size: 0.8rem; }
+    
+    .form-elegant .z-depth-1a {
+    -webkit-box-shadow: 0 2px 5px 0 rgba(55, 161, 255, 0.26), 0 4px 12px 0 rgba(121, 155, 254, 0.25);
+    box-shadow: 0 2px 5px 0 rgba(55, 161, 255, 0.26), 0 4px 12px 0 rgba(121, 155, 254, 0.25); }
+    
+    .form-elegant .z-depth-1-half,
+    .form-elegant .btn:hover {
+    -webkit-box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15);
+    box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15); }
+
+    
+    .card-block{
+        border-radius: 20px 20px 20px 20px;
+        
+    }
+    .ist{
+        border-radius: 20px;
+    }
+     
